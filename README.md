@@ -31,6 +31,8 @@ I'm Skanda M V, currently an intern at X-workZ, where I’m sharpening my Java s
 
 ![Skanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKANDAMV27&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SKANDAMV27&theme=tokyonight)
+[![Skanda's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDAMV27&layout=compact&theme=vision-friendly-dark)](https://github.com/SKANDAMV27)
+
 
 </div>
 
