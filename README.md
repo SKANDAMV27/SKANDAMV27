@@ -26,20 +26,16 @@ I'm Skanda M V, currently an intern at X-workZ, where I’m sharpening my Java s
 
 ---
 
-### 📈 Activity Graph  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhankhankundur&theme=react-dark&bg_color=1a1a1a&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
 ## 📈 GitHub Stats
 <div align="center">
 
 ![Skanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKANDAMV27&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SKANDAMV27&theme=tokyonight)
 
----
 </div>
 
-"Strive for progress, not perfection.🚀"
+---
+
+### 📈 Skanda M V's Contribution  
+<div align="center">
+  <img src="https://github-readme-activity
