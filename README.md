@@ -36,10 +36,6 @@ I'm Skanda M V, currently an intern at X-workZ, where I’m sharpening my Java s
 
 ---
 
-### 📈 Skanda M V's Contribution  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skanda M V &theme=react-dark&bg_color=1a1a1a&hide_border=true&area=true" alt="Activity Graph" />
-</div>
 
 ---
 
