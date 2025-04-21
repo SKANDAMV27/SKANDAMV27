@@ -1,52 +1,48 @@
-# Hi, I'm Skanda M V 👋  
+# 👋 Hi there, I'm Skanda M V!
 
-I'm Skanda M V, currently an intern at X-workZ, where I’m sharpening my Java skills. I’m passionate about learning, improving my skills, and creating well-structured code.
-
----
-
-## 🌱 What I'm working on
-
-- Core Java  
-- Object-Oriented Programming  
-- Strengthening software development fundamentals 
+🎯 A passionate Java enthusiast and current intern at **X-workZ**, where I’m honing my skills in software development.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
+
+- 🔭 Currently focusing on **Core Java** & **Object-Oriented Programming**
+- 💻 Sharpening fundamentals in **software development**
+- 📘 Constantly learning, coding, and pushing my boundaries
+- 🌱 Eager to collaborate, learn from peers, and grow in the tech world
+
+---
+
+## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
+## 📈 GitHub Activity
 
-
-<!-- Classic Stats -->
-![Skanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKANDAMV27&show_icons=true&theme=radical)
-
-<!-- Streak with new theme -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=SKANDAMV27&theme=gruvbox)](https://git.io/streak-stats)
-
-<!-- Top languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDAMV27&layout=compact&theme=vision-friendly-dark)](https://github.com/SKANDAMV27)
-
-<!-- GitHub Contribution Graph -->
-![GitHub Contribution Calendar](https://ghchart.rshah.org/SKANDAMV27)
-
-<!-- Snake Animation (Optional setup required) -->
-<!-- ![Snake animation](https://github.com/SKANDAMV27/SKANDAMV27/blob/output/github-contribution-grid-snake.svg) -->
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SKANDAMV27&show_icons=true&theme=radical" alt="Skanda's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=SKANDAMV27&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDAMV27&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
 
 ---
 
-"Strive for progress, not perfection.🚀"
+## 🟢 Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/SKANDAMV27" alt="Skanda's GitHub Chart" />
+</p>
+
+---
+
+> “Strive for progress, not perfection.” 🚀
