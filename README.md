@@ -32,8 +32,28 @@ I'm Skanda M V, currently an intern at X-workZ, where I’m sharpening my Java s
 [![GitHub Streak](https://streak-stats.demolab.com?user=SKANDAMV27&theme=gruvbox)](https://git.io/streak-stats)
 
 
+</div>
+---
+## 📈 GitHub Stats
+<div align="center">
+
+<!-- Classic Stats -->
+![Skanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKANDAMV27&show_icons=true&theme=radical)
+
+<!-- Streak with new theme -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=SKANDAMV27&theme=gruvbox)](https://git.io/streak-stats)
+
+<!-- Top languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDAMV27&layout=compact&theme=vision-friendly-dark)](https://github.com/SKANDAMV27)
+
+<!-- GitHub Contribution Graph -->
+![GitHub Contribution Calendar](https://ghchart.rshah.org/SKANDAMV27)
+
+<!-- Snake Animation (Optional setup required) -->
+<!-- ![Snake animation](https://github.com/SKANDAMV27/SKANDAMV27/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
+
 
 ---
 
