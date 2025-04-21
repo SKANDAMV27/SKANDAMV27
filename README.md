@@ -26,6 +26,13 @@ I'm Skanda M V, currently an intern at X-workZ, where I’m sharpening my Java s
 
 ---
 
+### 📈 Activity Graph  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhankhankundur&theme=react-dark&bg_color=1a1a1a&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
 ## 📈 GitHub Stats
 <div align="center">
 
