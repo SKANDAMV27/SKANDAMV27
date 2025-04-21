@@ -1,19 +1,32 @@
-## Hey, I'm Skanda M V 👋
+# Hi, I'm Skanda M V 👋  
 
+I'm Skanda M V, currently an intern at X-workZ, where I’m sharpening my Java skills. I’m passionate about learning, improving my skills, and creating well-structured code.
 
-💻 Currently learning Java at X-workz.
-📫 Reach me at: skandagowda0@gmail.com
-🔥 Obsessed with keeping my GitHub streaks alive – it's like my daily workout for the brain! 💡
+---
 
-🌟 Fun Fact About Me 
+## 🌱 What I'm working on
 
-I once spent more time fixing a single Java bug than I’d like to admit… but hey, persistence is key, right? 
+- Core Java  
+- Object-Oriented Programming  
+- Strengthening software development fundamentals 
 
-### 📊 GitHub Streaks  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SKANDAMV27&theme=dark&hide_border=true)](https://git.io/streak-stats)
+---
 
+## 🛠 Tech Stack
 
+- **Languages:** Java, HTML, CSS, SQL  
+- **Tools & IDEs:** Git, VS Code, IntelliJ  
+- **Learning:** Web technologies, Clean code principles, Debugging practices  
 
- 
+---
 
+## 📈 GitHub Stats
+<div align="center">
 
+![Skanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKANDAMV27&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=SKANDAMV27&theme=tokyonight)
+
+---
+</div>
+
+"Strive for progress, not perfection.🚀"
