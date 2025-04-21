@@ -37,11 +37,6 @@
 
 ---
 
-## 🟢 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/SKANDAMV27" alt="Skanda's GitHub Chart" />
-</p>
 
 ---
 
