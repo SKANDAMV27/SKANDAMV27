@@ -1,19 +1,20 @@
 # 👋 Hi there, I'm **Skanda M V**!
 
-🎯 A passionate **Java Developer** and current intern at **X-workZ**, diving deep into the world of software development.
+🎯 A passionate **Java Developer** and current **Intern at X-workZ**, deeply immersed in the world of software development.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently mastering **Core Java** & **Object-Oriented Programming**
-- 💻 Strengthening my foundation in **software engineering principles**
-- 🌱 Continuously learning, building projects, and exploring new technologies
-- 🤝 Open to collaboration, mentorship, and real-world problem solving
+- 🔭 Currently mastering **Core Java** and **Object-Oriented Programming (OOP)**
+- 💻 Building a strong foundation in **software engineering principles** and best practices
+- 🌱 Actively learning, developing projects, and staying updated with new technologies
+- 🤝 Open to collaboration, mentorship, and solving real-world problems
+- 🌟 **Inspired by my mentor, Om Sir**, whose guidance continuously motivates me to excel
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/>
@@ -26,7 +27,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SKANDAMV27&show_icons=true&theme=radical" alt="Skanda's GitHub Stats" />
@@ -38,7 +39,7 @@
 
 ---
 
-> “**Strive for progress, not perfection.**” 🚀
+> “**Strive for progress, not perfection.**” 🚀  
+> **Guided by the wisdom and inspiration of Om Sir.**
 
 ---
-
