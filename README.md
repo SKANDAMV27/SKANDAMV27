@@ -27,18 +27,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKANDAMV27&show_icons=true&theme=radical" alt="Skanda's GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=SKANDAMV27&theme=gruvbox" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDAMV27&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
-
----
-
 > “**Strive for progress, not perfection.**” 🚀  
 > **Guided by the wisdom and inspiration of Om Sir.**
 
