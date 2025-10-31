@@ -34,5 +34,5 @@
 
 ## ✨ Quote I Believe In
 
-> “**Strive for progress, not perfection.**” 🚀  
+> “**Strive for progress, not perfection.**”   
 > **Guided by the wisdom and inspiration of Om Sir.**
