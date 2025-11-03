@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Skanda M V**!
 
-🎯 A passionate **Java Developer** and current **Intern at X-workZ**, deeply immersed in the world of software development.
+
 
 ---
 
