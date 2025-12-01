@@ -1,77 +1,95 @@
-<!-- Header Animation -->
+<!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A3FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Skanda+M+V;Java+Developer;Backend+Engineer+in+Progress;Spring+Boot+%7C+MySQL+%7C+REST+APIs;Always+Learning+and+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A3FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Skanda+M+V;Full+Stack+Developer+%40+Prapti+Consulting;Java+%7C+Spring+Boot+%7C+React;Backend+Engineer+in+Progress;Always+Learning+and+Improving" />
 </p>
+
+<!-- Decorative Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="100%" />
+</p>
+
+# 👨‍💼 Current Role
+
+💼 I am currently working at **Prapti Consulting** as a **Full Stack Developer**, where I contribute to:  
+- 🔧 Building scalable **Java + Spring Boot** backends  
+- 🌐 Developing responsive **React & Bootstrap** frontends  
+- 🗄️ Integrating and optimizing **MySQL databases**  
+- ⚙️ Writing clean, production-level code  
+- 🧪 API testing, debugging & deployments  
 
 ---
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
-
 # 👨‍💻 About Me
 
-- Java developer focusing on **Core Java, OOP, Spring Boot, and MySQL**  
-- Building strong foundations in **backend engineering & clean architecture**
-- Actively learning **REST APIs, security, debugging, and microservices basics**
-- Passionate about writing **clean, readable, and maintainable code**
-- Inspired by my mentor **Om Sir**, whose guidance pushes me to grow every day
+- Strong foundation in **Core Java & OOP Principles**  
+- Passionate about **backend engineering**, clean code, and architecture  
+- Actively learning **microservices**, **JWT authentication**, and **Spring Security**  
+- Improving through real-world projects & hands-on experience  
+- Inspired by my mentor **Om Sir**, whose guidance keeps me progressing  
 
 ---
 
 # 🚀 What I’m Learning Recently
 
-✔ Spring Boot – Controllers, Services, Repositories  
-✔ JPA – Entities, Relationships, Pagination  
-✔ Global Exception Handling  
-✔ JWT basics  
-✔ DTO vs Entity Structure  
-✔ Logging with SLF4J  
-✔ Debugging with breakpoints  
-✔ MySQL joins, indexing, optimization  
+✔ Spring Boot (REST, JPA, layered architecture)  
+✔ JWT authentication & Spring Security basics  
+✔ DTO patterns & ModelMapper  
+✔ JPA relationships (OneToMany / ManyToMany)  
+✔ Global exception handling  
+✔ MySQL indexing & optimized queries  
+✔ Git workflow (branches, merge, rebase)  
+✔ Debugging & breakpoints (IntelliJ / VS Code)  
 
 ---
 
-<!-- Animated Tech Stack Icons -->
+<!-- Tech Stack Icons Animation -->
 # 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,bootstrap,github,git,idea,vscode" />
 </p>
 
 ---
 
-<!-- Wave Animation -->
+<!-- Wave Decoration -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave.svg" width="100%" />
 </p>
 
-# 📊 GitHub Overview
+# 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
+    width="38%" 
+  />
 </p>
 
 ---
 
 # 💡 What I Like to Build
 
-- Real project-style **REST APIs**  
-- Backend modules using **Spring Boot + MySQL**  
-- Code following proper **layered architecture**  
-- Simple microservice-style practice apps  
-- Projects focusing on clean code & debugging  
+- Real-world **REST APIs**  
+- Java backend systems using **Spring Boot + MySQL**  
+- Full stack applications with **React**  
+- Projects following **clean architecture & best practices**  
+- Microservice-style practice modules  
 
 ---
 
 <!-- Coding GIF -->
 <p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="420px">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="420px" />
 </p>
 
 ---
@@ -83,8 +101,9 @@
 
 ---
 
-# 📫 Connect
+# 📫 Connect With Me
 
-📧 Email: skanda 
+📧 Email: yourmail@example.com  
 🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
 🔗 LinkedIn: your-linkedin-url  
+
