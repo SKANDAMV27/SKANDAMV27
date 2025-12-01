@@ -11,41 +11,55 @@
 # 👨‍💼 Current Role
 
 💼 I am currently working at **Prapti Consulting** as a **Full Stack Developer**, where I contribute to:  
-- 🔧 Building scalable **Java + Spring Boot** backends  
-- 🌐 Developing responsive **React & Bootstrap** frontends  
-- 🗄️ Integrating and optimizing **MySQL databases**  
-- ⚙️ Writing clean, production-level code  
-- 🧪 API testing, debugging & deployments  
+- 🔧 Building **Java + Spring Boot** backend services  
+- 🌐 Developing responsive **React, HTML, CSS, JS** frontends  
+- 🗄️ Designing & optimizing **MySQL databases**  
+- ⚙️ Writing scalable & clean production-level code  
+- 🧪 Debugging, API testing & deployment activities  
+
+---
+
+# 🎓 Completed Training (Xworkz)
+
+🏅 Successfully completed a **Full Stack Development Course at Xworkz**, with hands-on training in:  
+- ✔ Core Java, OOP, Collections  
+- ✔ Advanced Java (JDBC, J2EE, Servlets, JSP)  
+- ✔ Spring Framework & Spring Boot  
+- ✔ Hibernate / JPA  
+- ✔ SQL & MySQL  
+- ✔ HTML, CSS, JavaScript, Bootstrap  
+- ✔ Interview Preparation, Coding Assignments & Real-world Projects  
+
+✨ Xworkz helped me build strong fundamentals and boosted my confidence as a developer.
 
 ---
 
 # 👨‍💻 About Me
 
-- Strong foundation in **Core Java & OOP Principles**  
-- Passionate about **backend engineering**, clean code, and architecture  
-- Actively learning **microservices**, **JWT authentication**, and **Spring Security**  
-- Improving through real-world projects & hands-on experience  
-- Inspired by my mentor **Om Sir**, whose guidance keeps me progressing  
+- Strong knowledge of **Core Java & Backend Development**  
+- Passionate about **clean architecture**, debugging & real-world problem solving  
+- Currently improving skills in **Spring Security, JWT, and Microservices**  
+- Growing everyday with support & guidance from my mentor **Om Sir**  
 
 ---
 
 # 🚀 What I’m Learning Recently
 
-✔ Spring Boot (REST, JPA, layered architecture)  
-✔ JWT authentication & Spring Security basics  
-✔ DTO patterns & ModelMapper  
-✔ JPA relationships (OneToMany / ManyToMany)  
-✔ Global exception handling  
+✔ REST APIs (Controller → Service → Repository)  
+✔ JPA relationships & pagination  
+✔ Global Exception Handling  
+✔ JWT authentication basics  
+✔ Git branching & version control  
 ✔ MySQL indexing & optimized queries  
-✔ Git workflow (branches, merge, rebase)  
-✔ Debugging & breakpoints (IntelliJ / VS Code)  
+✔ Using Postman for API testing  
+✔ Debugging with IntelliJ / VS Code  
 
 ---
 
 <!-- Tech Stack Icons Animation -->
 # 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,bootstrap,github,git,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,bootstrap,git,github,idea,vscode" />
 </p>
 
 ---
@@ -79,11 +93,10 @@
 
 # 💡 What I Like to Build
 
-- Real-world **REST APIs**  
-- Java backend systems using **Spring Boot + MySQL**  
-- Full stack applications with **React**  
-- Projects following **clean architecture & best practices**  
-- Microservice-style practice modules  
+- RESTful backend services  
+- Full stack applications (React + Spring Boot)  
+- Microservice-style learning modules  
+- Clean-code Java projects with real industrial structure  
 
 ---
 
@@ -103,7 +116,7 @@
 
 # 📫 Connect With Me
 
-📧 Email: yourmail@example.com  
-🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-🔗 LinkedIn: your-linkedin-url  
+📧 Email: skandagowda0@gmail.com
+🐙 GitHub: https://github.com/SKANDAMV27  
+🔗 LinkedIn: 
 
