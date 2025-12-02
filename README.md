@@ -59,7 +59,7 @@
 <!-- Tech Stack Icons Animation -->
 # 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,bootstrap,git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,bootstrap,git,github,idea,vscode,postman" />
 </p>
 
 ---
