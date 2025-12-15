@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A3FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Skanda+M+V;Full+Stack+Developer+%40+Prapti+Consulting;Java+%7C+Spring+Boot+%7C+React;Backend+Engineer+in+Progress;Always+Learning+and+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A3FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Skanda+M+V" />
 </p>
 
 <!-- Decorative Divider -->
@@ -10,7 +10,7 @@
 
 # 👨‍💼 Current Role
 
-💼 I am currently working at **Prapti Consulting** as a **Full Stack Developer**, where I contribute to:  
+💼  where I contribute to:  
 - 🔧 Building **Java + Spring Boot** backend services  
 - 🌐 Developing responsive **React, HTML, CSS, JS** frontends  
 - 🗄️ Designing & optimizing **MySQL databases**  
