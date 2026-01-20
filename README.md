@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A3FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Skanda+M+V" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A3FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Skanda+M+V;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL" />
 </p>
 
 <!-- Decorative Divider -->
@@ -10,54 +10,63 @@
 
 # 👨‍💼 Current Role
 
-💼  where I contribute to:  
-- 🔧 Building **Java + Spring Boot** backend services  
-- 🌐 Developing responsive **React, HTML, CSS, JS** frontends  
-- 🗄️ Designing & optimizing **MySQL databases**  
-- ⚙️ Writing scalable & clean production-level code  
-- 🧪 Debugging, API testing & deployment activities  
+💼 **Java Full Stack Developer**  
+Actively contributing to enterprise-level applications with a strong focus on backend development.
+
+### 🔹 What I Do
+- 🔧 Build scalable **Java & Spring Boot** backend services  
+- 🌐 Develop responsive UI using **React, HTML, CSS, JavaScript, Bootstrap**  
+- 🗄️ Design, query & optimize **MySQL databases**  
+- ⚙️ Follow clean architecture (Controller → Service → Repository)  
+- 🧪 API testing using **Postman**, debugging & production support  
+- 🔄 Version control using **Git & GitHub**
 
 ---
 
-# 🎓 Completed Training (Xworkz)
+# 🎓 Professional Training (Xworkz)
 
-🏅 Successfully completed a **Full Stack Development Course at Xworkz**, with hands-on training in:  
-- ✔ Core Java, OOP, Collections  
-- ✔ Advanced Java (JDBC, J2EE, Servlets, JSP)  
+🏅 Successfully completed **Full Stack Java Development Training at Xworkz**
+
+### 🔹 Technical Skills Gained
+- ✔ Core Java (OOPs, Collections, Exception Handling)  
+- ✔ Advanced Java (JDBC, Servlets, JSP, J2EE)  
 - ✔ Spring Framework & Spring Boot  
 - ✔ Hibernate / JPA  
 - ✔ SQL & MySQL  
 - ✔ HTML, CSS, JavaScript, Bootstrap  
-- ✔ Interview Preparation, Coding Assignments & Real-world Projects  
+- ✔ Hands-on real-time projects & interview preparation  
 
-✨ Xworkz helped me build strong fundamentals and boosted my confidence as a developer.
+✨ Xworkz strengthened my fundamentals and shaped me into an industry-ready developer.
 
 ---
 
 # 👨‍💻 About Me
 
-- Strong knowledge of **Core Java & Backend Development**  
-- Passionate about **clean architecture**, debugging & real-world problem solving  
-- Currently improving skills in **Spring Security, JWT, and Microservices**  
-- Growing everyday with support & guidance from my mentor **Om Sir**  
+- Strong foundation in **Core Java & Backend Development**  
+- Hands-on experience with **Spring Boot REST APIs**  
+- Interested in **problem-solving, debugging & system design**  
+- Currently enhancing skills in:
+  - 🔐 Spring Security & JWT  
+  - 🧩 Microservices fundamentals  
+- Guided by my mentor **Om Sir**
 
 ---
 
-# 🚀 What I’m Learning Recently
+# 🚀 Currently Learning & Improving
 
-✔ REST APIs (Controller → Service → Repository)  
-✔ JPA relationships & pagination  
+✔ REST API best practices  
+✔ JPA mappings (One-to-One, One-to-Many, Many-to-Many)  
+✔ Pagination & sorting  
 ✔ Global Exception Handling  
-✔ JWT authentication basics  
-✔ Git branching & version control  
-✔ MySQL indexing & optimized queries  
-✔ Using Postman for API testing  
-✔ Debugging with IntelliJ / VS Code  
+✔ JWT authentication & authorization  
+✔ Git branching strategies  
+✔ MySQL indexing & query optimization  
+✔ Debugging with IntelliJ IDEA & VS Code  
 
 ---
 
-<!-- Tech Stack Icons Animation -->
-# 🛠️ Tech Stack  
+# 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,bootstrap,git,github,idea,vscode,postman" />
 </p>
@@ -73,30 +82,31 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=SKANDAMV27&show_icons=true&theme=tokyonight&hide_border=true" 
     width="48%" 
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SKANDAMV27&theme=tokyonight&hide_border=true" 
     width="48%" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDAMV27&layout=compact&theme=tokyonight&hide_border=true" 
     width="38%" 
   />
 </p>
 
 ---
 
-# 💡 What I Like to Build
+# 💡 What I Love to Build
 
-- RESTful backend services  
-- Full stack applications (React + Spring Boot)  
-- Microservice-style learning modules  
-- Clean-code Java projects with real industrial structure  
+- RESTful backend applications  
+- Full Stack projects (React + Spring Boot)  
+- Role-based authentication systems  
+- Clean, layered Java applications  
+- Real-world business logic driven projects  
 
 ---
 
@@ -110,13 +120,12 @@
 # ✨ Quote I Live By
 
 > **“Strive for progress, not perfection.”**  
-> Guided by the wisdom of **Om Sir**.
+> — Inspired by **Om Sir**
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: skandagowda0@gmail.com
-🐙 GitHub: https://github.com/SKANDAMV27  
-🔗 LinkedIn: https://www.linkedin.com/in/skanda-m-v-5b2a56311/
-
+📧 **Email:** skandagowda0@gmail.com  
+🐙 **GitHub:** https://github.com/SKANDAMV27  
+🔗 **LinkedIn:** https://www.linkedin.com/in/skanda-m-v-5b2a56311/
