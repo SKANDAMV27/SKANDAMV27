@@ -37,7 +37,7 @@ Building enterprise-grade systems with structured backend logic and responsive U
   <img src="https://github.com/SKANDAMV27/SKANDAMV27/blob/main/rotate-tech.gif" width="80%" />
 </p>
 
-🎯 **If you want, I can generate a custom animated GIF with your tech stack.**
+
 
 ---
 
