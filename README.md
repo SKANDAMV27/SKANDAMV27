@@ -97,17 +97,6 @@ Tech: Servlets + JSP + JDBC
 Customer registration, validation, DB operations
 ```
 
----
-
-# ✨ More Features Added
-- Snake Graph 🐍  
-- Profile Views Counter 👁  
-- Trophy Cabinet 🏆  
-- Project Cards 📂  
-- Clean & modern styling 🎨  
-
----
-
 # 📫 Connect With Me
 
 📧 Email: **skandagowda0@gmail.com**  
