@@ -3,88 +3,51 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A3FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Skanda+M+V;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL" />
 </p>
 
-<!-- Decorative Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="100%" />
 </p>
 
 # 👨‍💼 Current Role
-
 💼 **Java Full Stack Developer**  
-Actively contributing to enterprise-level applications with a strong focus on backend development.
+Building enterprise-grade applications with clean backend architecture and modern UIs.
 
 ### 🔹 What I Do
-- 🔧 Build scalable **Java & Spring Boot** backend services  
-- 🌐 Develop responsive UI using **React, HTML, CSS, JavaScript, Bootstrap**  
-- 🗄️ Design, query & optimize **MySQL databases**  
-- ⚙️ Follow clean architecture (Controller → Service → Repository)  
-- 🧪 API testing using **Postman**, debugging & production support  
-- 🔄 Version control using **Git & GitHub**
-
----
-
-# 🎓 Professional Training (Xworkz)
-
-🏅 Successfully completed **Full Stack Java Development Training at Xworkz**
-
-### 🔹 Technical Skills Gained
-- ✔ Core Java (OOPs, Collections, Exception Handling)  
-- ✔ Advanced Java (JDBC, Servlets, JSP, J2EE)  
-- ✔ Spring Framework & Spring Boot  
-- ✔ Hibernate / JPA  
-- ✔ SQL & MySQL  
-- ✔ HTML, CSS, JavaScript, Bootstrap  
-- ✔ Hands-on real-time projects & interview preparation  
-
-✨ Xworkz strengthened my fundamentals and shaped me into an industry-ready developer.
-
----
-
-# 👨‍💻 About Me
-
-- Strong foundation in **Core Java & Backend Development**  
-- Hands-on experience with **Spring Boot REST APIs**  
-- Interested in **problem-solving, debugging & system design**  
-- Currently enhancing skills in:
-  - 🔐 Spring Security & JWT  
-  - 🧩 Microservices fundamentals  
-- Guided by my mentor **Om Sir**
-
----
-
-# 🚀 Currently Learning & Improving
-
-✔ REST API best practices  
-✔ JPA mappings (One-to-One, One-to-Many, Many-to-Many)  
-✔ Pagination & sorting  
-✔ Global Exception Handling  
-✔ JWT authentication & authorization  
-✔ Git branching strategies  
-✔ MySQL indexing & query optimization  
-✔ Debugging with IntelliJ IDEA & VS Code  
+- Build **Spring Boot REST APIs**
+- Work with **MySQL, JPA, Hibernate**
+- Develop **React + Bootstrap** frontends
+- Debug using **Postman**
+- Follow layered architecture (Controller → Service → Repository)
+- Version control using **Git & GitHub**
 
 ---
 
 # 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,bootstrap,git,github,idea,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,html,css,js,bootstrap,git,github,idea,vscode,postman" />
 </p>
 
 ---
 
-<!-- Wave Decoration -->
+# 🏆 GitHub Achievements & Metrics
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave.svg" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=SKANDAMV27&label=Profile%20Visits&color=0e75b6&style=flat" />
 </p>
 
-# 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SKANDAMV27&theme=tokyonight&margin-w=15&margin-h=15&column=7" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=SKANDAMV27&show_icons=true&theme=tokyonight&hide_border=true" 
     width="48%" 
   />
+
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=SKANDAMV27&theme=tokyonight&hide_border=true" 
     width="48%" 
@@ -100,32 +63,89 @@ Actively contributing to enterprise-level applications with a strong focus on ba
 
 ---
 
-# 💡 What I Love to Build
+# 🐍 Snake Contribution Graph
 
-- RESTful backend applications  
-- Full Stack projects (React + Spring Boot)  
-- Role-based authentication systems  
-- Clean, layered Java applications  
-- Real-world business logic driven projects  
-
----
-
-<!-- Coding GIF -->
 <p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="420px" />
+  <img src="https://raw.githubusercontent.com/SKANDAMV27/SKANDAMV27/output/snake.svg" />
 </p>
 
 ---
 
-# ✨ Quote I Live By
+# 🚀 Featured Projects
 
-> **“Strive for progress, not perfection.”**  
-> — Inspired by **Om Sir**
+## 🛒 **Lakshmi Wines – Liquor Shop Website**
+```
+Tech: HTML, CSS, Bootstrap, JavaScript
+Fully responsive UI and product catalog
+```
+
+## 🧑‍💼 **Employee Feedback System**
+```
+Tech: React + Spring Boot + PostgreSQL
+Role-based login, feedback workflows, dashboard
+```
+
+## 🌍 **Tourism Management System**
+```
+Tech: Spring Boot + MySQL
+Admin & User Dashboard, booking, reports
+```
+
+## 📇 **Customer Management (Servlet Project)**
+```
+Tech: Servlets + JSP + JDBC
+Customer registration, validation, DB operations
+```
+
+---
+
+# ✨ More Features Added
+- Snake Graph 🐍  
+- Profile Views Counter 👁  
+- Trophy Cabinet 🏆  
+- Project Cards 📂  
+- Clean & modern styling 🎨  
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** skandagowda0@gmail.com  
-🐙 **GitHub:** https://github.com/SKANDAMV27  
-🔗 **LinkedIn:** https://www.linkedin.com/in/skanda-m-v-5b2a56311/
+📧 Email: **skandagowda0@gmail.com**  
+🐙 GitHub: **https://github.com/SKANDAMV27**  
+🔗 LinkedIn: **https://www.linkedin.com/in/skanda-m-v-5b2a56311/**
+
+---
+
+# ⚙️ GitHub Action Required for Snake Graph  
+**Create a file:**  
+`.github/workflows/snake.yml`
+
+**Paste this code:**
+
+````yaml
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: SKANDAMV27
+          outputs: dist/snake.svg
+
+      - name: Deploy Snake File
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: output
+          folder: dist
