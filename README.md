@@ -114,38 +114,4 @@ Customer registration, validation, DB operations
 🐙 GitHub: **https://github.com/SKANDAMV27**  
 🔗 LinkedIn: **https://www.linkedin.com/in/skanda-m-v-5b2a56311/**
 
----
 
-# ⚙️ GitHub Action Required for Snake Graph  
-**Create a file:**  
-`.github/workflows/snake.yml`
-
-**Paste this code:**
-
-````yaml
-name: Generate Snake Game
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
-
-      - name: Generate Snake
-        uses: Platane/snk@master
-        with:
-          github_user_name: SKANDAMV27
-          outputs: dist/snake.svg
-
-      - name: Deploy Snake File
-        uses: JamesIves/github-pages-deploy-action@4.1.4
-        with:
-          branch: output
-          folder: dist
