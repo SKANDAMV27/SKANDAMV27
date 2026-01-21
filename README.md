@@ -1,4 +1,4 @@
-<!-- Typing Animation Header -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A3FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Skanda+M+V;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL" />
 </p>
