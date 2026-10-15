@@ -1,19 +1,13 @@
-<div align="center">
+ <div align="center">
 
-# Skanda M V
+# Hi, I'm Skanda M V 👋
 
 ### Java Full Stack Developer | Backend Engineer
 
-<p>
-  <a href="https://github.com/SKANDAMV27">
-    <img src="https://img.shields.io/badge/GitHub-SKANDAMV27-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/skanda-m-v-5b2a56311/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+Building reliable, scalable, and maintainable web applications.
 
-<img src="https://komarev.com/ghpvc/?username=SKANDAMV27&label=Profile%20Views&color=2563EB&style=flat-square" />
+[![GitHub](https://img.shields.io/badge/GitHub-SKANDAMV27-181717?style=flat-square&logo=github)](https://github.com/SKANDAMV27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skanda-m-v-5b2a56311/)
 
 </div>
 
@@ -21,168 +15,130 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Java Full Stack Developer** focused on building reliable, scalable, and maintainable web applications.
+I'm a software developer focused on building full-stack applications and backend services using modern technologies.
 
-My primary experience is with **Java, Spring Boot, REST APIs, SQL, and React**. I also work with modern JavaScript technologies such as **Node.js and Next.js**.
+- 💻 Experienced in developing applications with **Java, Spring Boot, React, and SQL**.
+- ⚙️ Interested in backend engineering, REST API development, and database design.
+- 🔐 Exploring secure authentication, authorization, and application security.
+- 🏗️ Learning system design, microservices, and distributed systems.
+- ☁️ Expanding my knowledge of cloud technologies, Docker, and deployment practices.
+- 🎯 Focused on writing clean, maintainable, and production-ready code.
 
-I'm currently strengthening my knowledge in:
-
-* **Data Structures & Algorithms**
-* **System Design**
-* **Microservices Architecture**
-* **Distributed Systems**
-* **Cloud & DevOps**
-* **Backend Development**
-
-I enjoy understanding how applications work internally and continuously improving my software engineering skills.
+I enjoy solving technical problems, understanding application architecture, and continuously improving my software engineering skills.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Backend
+### Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Java • Spring Boot • Spring Data JPA • Spring Security • REST APIs • PHP • Laravel • Node.js**
+### Frontend Development
 
-### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
-</p>
+### Databases
 
-**React • Next.js • JavaScript • TypeScript • HTML • CSS • Tailwind CSS • Vite**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Database
+### Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-**MySQL • PostgreSQL**
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,idea,vscode" />
-</p>
-
-**Git • GitHub • Docker • Kubernetes • CI/CD • Postman • IntelliJ IDEA • VS Code**
-
----
-
-## 🚀 What I Work On
-
-```text
-Backend Development
-    ├── Java & Spring Boot
-    ├── REST API Development
-    ├── Spring Security
-    ├── JPA / Hibernate
-    └── Database Design
-
-Frontend Development
-    ├── React
-    ├── Next.js
-    ├── TypeScript
-    └── Tailwind CSS
-
-Software Engineering
-    ├── System Design
-    ├── Microservices
-    ├── Distributed Systems
-    ├── DSA
-    └── Clean & Maintainable Code
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🌾 FarmerConnect
 
 A full-stack platform designed to connect farmers with digital services and resources.
 
-**Stack:**
-`Java` `Spring Boot` `Spring Security` `JPA` `MySQL` `React` `Vite` `Tailwind CSS`
+- Developed backend services using Java and Spring Boot.
+- Worked with Spring Data JPA and MySQL for data persistence.
+- Built the frontend using React and Vite.
+- Focused on API integration, application security, and maintainable code.
 
----
+**Technologies:** Java · Spring Boot · Spring Security · JPA · MySQL · React · Tailwind CSS
 
 ### 🎓 CampusConnect
 
-A college event and club management platform for managing campus activities, events, clubs, and users.
+A college event and club management system designed to manage campus activities and student participation.
 
-**Stack:**
-`React` `Vite` `Spring Boot` `Java` `REST APIs` `MySQL`
+- Building frontend workflows using React.
+- Developing backend services using Spring Boot and Java.
+- Integrating frontend components with REST APIs.
+- Working on authentication, role-based access, and event management workflows.
 
----
+**Technologies:** Java · Spring Boot · React · Vite · REST APIs · MySQL
 
 ### 🚗 Vehicle Detection & Counting
 
-A computer vision project for detecting and counting vehicles from video streams.
+A computer vision project for identifying and counting vehicles from video streams.
 
-**Technologies:**
-`Python` `YOLO` `OpenCV` `DeepSORT`
+- Explored object detection and multi-object tracking.
+- Worked with video processing and vehicle-counting workflows.
+- Used computer vision techniques to analyze vehicle movement.
+
+**Technologies:** Python · YOLO · OpenCV · DeepSORT
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SKANDAMV27&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SKANDAMV27&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDAMV27&layout=compact&hide_border=true&theme=default" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDAMV27&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SKANDAMV27&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 📈 Contribution
+## 🌱 Currently Improving
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SKANDAMV27&theme=default&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-✓ Strengthening Java & Spring Boot
-✓ Improving DSA & Problem Solving
-✓ Learning System Design
-✓ Understanding Microservices
-✓ Exploring Distributed Systems
-✓ Learning Cloud & DevOps
-✓ Building Production-Ready Applications
-```
+- Java fundamentals, collections, and problem-solving
+- Data Structures and Algorithms
+- Spring Boot application architecture
+- REST API design and security
+- System Design and Microservices
+- Docker, cloud technologies, and deployment
+- Code quality, testing, and maintainable architecture
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<div align="center">
+I'm interested in software engineering, backend development, full-stack projects, and learning from the developer community.
 
-<a href="https://github.com/SKANDAMV27">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/skanda-m-v-5b2a56311/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+- **GitHub:** [@SKANDAMV27](https://github.com/SKANDAMV27)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/skanda-m-v-5b2a56311/)
 
 ---
 
 <div align="center">
 
-### "Build. Learn. Improve. Repeat."
+*Build thoughtfully. Learn continuously. Improve consistently.*
 
 </div>
